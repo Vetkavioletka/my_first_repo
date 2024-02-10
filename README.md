@@ -6,7 +6,7 @@ first readme
 
 first repo
 
-added text without instr
+added text without instruction
 
 I added a small text without the instructions
 only to see how the commands push and pull work
